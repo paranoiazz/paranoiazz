@@ -23,7 +23,7 @@
  <div align="center">
 
 
-<img width="100" height="100" alt="53b14f&bar" src="https://github.com/user-attachments/assets/5497688c-f775-43e0-ad2a-72e8d661119f" />  
+<img width="" height="100" alt="53b14f&bar" src="https://github.com/user-attachments/assets/5497688c-f775-43e0-ad2a-72e8d661119f" />  
 <img width="" height="50" alt=53b14f&bar src="https://github.com/user-attachments/assets/5c28bb77-249f-42e5-8a69-1678f821b276" />
 
  <div align="right">
